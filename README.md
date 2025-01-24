@@ -1,6 +1,6 @@
 # Problem Solving Stats
 
-<p align="center"><em>Last Updated: July 31, 2024</em></p>
+<p align="center"><em>Last Updated: January 06, 2025</em></p>
 
 | Platform    | Username                                                                   | Solved Problems |
 | ----------  | -------------------------------------------------------------------------- | --------------- |
